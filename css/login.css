@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.signup-btn2{
+    text-decoration: none;
+}
